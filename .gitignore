@@ -1,0 +1,17 @@
+data/
+qa-data/
+qa-credit-data/
+backups/
+__pycache__/
+*.py[cod]
+.env*
+.codex/
+auth.json
+*.pem
+.build*/
+dist/
+outputs/
+*.spec
+*-preview.png
+qa-*.png
+QA_REPORT.md
