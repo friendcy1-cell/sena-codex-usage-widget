@@ -1,5 +1,15 @@
 # Sena · Codex Usage Widget
 
+## Actual desktop view
+
+![Actual desktop screenshot of Sena beside the compact Codex usage bubble](media/Sena_Actual_Desktop.png)
+
+Click Sena or the speech bubble to open usage details and reset times.
+**Interface:** English, Korean, Japanese and Simplified Chinese.
+**Voice alerts:** Japanese.
+
+*Actual screenshot shared by the owner. The displayed values are a snapshot, not a live reading.*
+
 ![Source setup and optional character packs](media/GitHub_Source_EN.png)
 
 A small, unofficial Windows desktop companion from LumiStage. See your own Codex
@@ -171,3 +181,4 @@ reference recordings are bundled.
 Primary references: [Codex app-server](https://learn.chatgpt.com/docs/app-server),
 [Codex authentication](https://learn.chatgpt.com/docs/auth),
 [GitHub Releases](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository).
+
